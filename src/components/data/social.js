@@ -13,3 +13,4 @@ export const SocialData =[{
     icon: require('../../assets/icons/gmail.svg').default,
 }
 ]
+
