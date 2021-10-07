@@ -1,0 +1,27 @@
+.school-card{
+    padding:8px;
+    width: 45% ;
+    margin-top:16px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    flex-direction:row-reverse;
+}
+.school-logo{
+    height: 80px;
+}
+.school-info{
+   display: flex;
+   align-items: flex-start;
+   flex-direction: column;
+}
+.school-year{
+    color: gray;
+}
+
+
+@media only screen and  (max-width: 720px) {
+    .school-card{
+        width: 100%;
+    }
+}

@@ -1,0 +1,15 @@
+.education{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.section-title{
+
+}
+.education-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    align-items:center;
+    margin: 24px 0px;
+}

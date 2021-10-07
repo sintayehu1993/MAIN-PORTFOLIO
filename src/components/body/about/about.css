@@ -1,0 +1,42 @@
+.about {
+  padding-bottom: 48px;
+}
+.about-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.about-photo {
+  background-color: aqua;
+}
+.my-picture {
+  background-color: aqua;
+  width: 16rem;
+  border-radius: 50%;
+  padding: 0.3rem;
+}
+.about-info {
+  font-size: 24px;
+}
+.info-intro {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+@media only screen and (max-width: 720px) {
+  /* for laptop */
+  .about-top {
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+  }
+  .my-picture{
+    width: 10rem;
+  }
+  .about-info{
+      font-size:18px;
+  }
+  .info-intro{
+    font-size:20px;
+  }
+}
