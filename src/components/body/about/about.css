@@ -6,6 +6,9 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: rgb(106, 98, 124);
+  border-radius: 10%;
+  
 }
 /* .about-photo {
   background-color: aqua;
@@ -13,12 +16,14 @@
 .my-picture {
   background-color: rgb(18, 63, 63);
   width: 16rem;
-  border-radius: 100%;
+  border-radius: 10%;
   padding: 0.3rem;
 }
 .about-info {
   font-size: 24px;
   font-family: Garamond;
+  margin-left: 10px;
+
 }
 .info-intro {
   font-size: 25px;
