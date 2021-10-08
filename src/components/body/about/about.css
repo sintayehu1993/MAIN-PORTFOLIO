@@ -1,4 +1,5 @@
 .about {
+  margin-top:12px;
   padding-bottom: 48px;
 }
 .about-top {
@@ -6,17 +7,18 @@
   justify-content: space-between;
   align-items: center;
 }
-.about-photo {
+/* .about-photo {
   background-color: aqua;
-}
+} */
 .my-picture {
-  background-color: aqua;
+  background-color: rgb(18, 63, 63);
   width: 16rem;
-  border-radius: 50%;
+  border-radius: 100%;
   padding: 0.3rem;
 }
 .about-info {
   font-size: 24px;
+  font-family: Garamond;
 }
 .info-intro {
   font-size: 25px;
