@@ -12,8 +12,8 @@ function About() {
         <div className="about-info">
           I am a <span className="info-intro">SOFTWARE ENGINEER </span>
           specializing in JavaScript, NodeJS, React/Redux, PostgreSQL, HTML/CSS
-          & more. I'm always finding ways to <br /> improve my skills, whether
-          that's adding features to my existing projects, <br /> developing new
+          & more. I'm always finding ways to improve my skills, whether
+          that's adding features to my existing projects, developing new
           ones from scratch, or learning a new language/library/framework.
         </div>
         <div className="about-photo">
