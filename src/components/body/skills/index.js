@@ -14,7 +14,7 @@ function Skills() {
           return (
             <div className="skills-section">
               <div className="skills-list">
-                <SkillCard skill={skill} />
+                <SkillCard key={skill.id} skill={skill} />
               </div>
             </div>
           );

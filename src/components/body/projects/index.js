@@ -11,7 +11,7 @@ function Projects() {
            <label className="section-title">Projects</label>
            <div>
            {data.map((project) => {
-               return <ProjectCard project= {project}/>
+               return <ProjectCard key={project.id} project={project}/>
            })}
            </div>
         </div>

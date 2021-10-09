@@ -3,7 +3,7 @@ import './projectCard.css';
 
 function ProjectCard({ project }) {
   return (
-    <div className="project-card">
+    <div key= {project.id} className="project-card">
       <div className="project-info">
         <label className="project-title">{project.title}</label>
         <div className="project-links">
@@ -17,7 +17,7 @@ function ProjectCard({ project }) {
           {project.github && (
             <a className="project-link" href={project.github}>
               <div className="link-button">
-                <i class="devicon-github-original colored"></i>GitHub
+                <i className="devicon-github-original colored"></i>GitHub
               </div>
             </a>
           )}
@@ -26,7 +26,7 @@ function ProjectCard({ project }) {
         <div className="project-tags">
             {project.tags.map((tag) =>{
                 return (
-                    <lable className="tag">{tag}</lable>
+                    <label className="tag">{tag}</label>
                 ) })}
         </div>
       </div>

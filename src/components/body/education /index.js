@@ -12,7 +12,7 @@ function Education() {
            <div className="education-list">
            {data.map((education) => {
                return(
-                  <EducationCard education={education}/>
+                  <EducationCard key={education.id} education={education}/>
                )
            })}
            </div>
