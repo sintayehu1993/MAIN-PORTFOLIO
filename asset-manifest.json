@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/main-portfolio/static/css/main.54cde281.chunk.css",
+    "main.js": "/main-portfolio/static/js/main.e7fc34cf.chunk.js",
+    "main.js.map": "/main-portfolio/static/js/main.e7fc34cf.chunk.js.map",
+    "runtime-main.js": "/main-portfolio/static/js/runtime-main.f40c6dad.js",
+    "runtime-main.js.map": "/main-portfolio/static/js/runtime-main.f40c6dad.js.map",
+    "static/js/2.861fbfbb.chunk.js": "/main-portfolio/static/js/2.861fbfbb.chunk.js",
+    "static/js/2.861fbfbb.chunk.js.map": "/main-portfolio/static/js/2.861fbfbb.chunk.js.map",
+    "static/js/3.045ab670.chunk.js": "/main-portfolio/static/js/3.045ab670.chunk.js",
+    "static/js/3.045ab670.chunk.js.map": "/main-portfolio/static/js/3.045ab670.chunk.js.map",
+    "index.html": "/main-portfolio/index.html",
+    "static/css/main.54cde281.chunk.css.map": "/main-portfolio/static/css/main.54cde281.chunk.css.map",
+    "static/js/2.861fbfbb.chunk.js.LICENSE.txt": "/main-portfolio/static/js/2.861fbfbb.chunk.js.LICENSE.txt",
+    "static/media/CoinChaser.png": "/main-portfolio/static/media/CoinChaser.4ab40d8c.png",
+    "static/media/Resume.pdf": "/main-portfolio/static/media/Resume.8b468221.pdf",
+    "static/media/TwoPlus.jpng": "/main-portfolio/static/media/TwoPlus.a424aa08.jpng",
+    "static/media/aboutMeImag.cb805c64.JPG": "/main-portfolio/static/media/aboutMeImag.cb805c64.JPG",
+    "static/media/github.svg": "/main-portfolio/static/media/github.0046aca0.svg",
+    "static/media/gmail.svg": "/main-portfolio/static/media/gmail.6836faf6.svg",
+    "static/media/linkedin.svg": "/main-portfolio/static/media/linkedin.cddf5a59.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f40c6dad.js",
+    "static/js/2.861fbfbb.chunk.js",
+    "static/css/main.54cde281.chunk.css",
+    "static/js/main.e7fc34cf.chunk.js"
+  ]
+}
